@@ -1,0 +1,6 @@
+---
+name: HypixelHalloweenPumplin
+version: 0.0.1
+main: SubUrbanCradles\HypixelHalloweenPumplin\Main
+api: 3.15.2
+...
